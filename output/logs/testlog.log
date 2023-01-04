@@ -1,0 +1,873 @@
+2022-12-24 14:44:08,411 - logger_file -INFO - React App is equal to React App
+2022-12-24 14:44:08,536 - logger_file -INFO - logo is present
+2022-12-24 14:44:40,592 - logger_file -INFO - React App is equal to React App
+2022-12-24 14:44:40,735 - logger_file -INFO - User click on Sign in option
+2022-12-24 14:44:40,967 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-24 14:44:41,059 - logger_file -INFO - User click on login button
+2022-12-24 14:50:06,271 - logger_file -INFO - React App is equal to React App
+2022-12-24 14:50:06,517 - logger_file -INFO - User click on Sign in option
+2022-12-24 14:50:06,743 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-24 14:50:06,832 - logger_file -INFO - User click on login button
+2022-12-24 14:51:28,095 - logger_file -INFO - React App is equal to React App
+2022-12-24 14:51:28,339 - logger_file -INFO - User click on Sign in option
+2022-12-24 14:51:28,569 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-24 14:51:28,665 - logger_file -INFO - User click on login button
+2022-12-24 14:53:20,795 - logger_file -INFO - React App is equal to React App
+2022-12-24 14:53:20,930 - logger_file -INFO - User click on Sign in option
+2022-12-24 14:53:21,171 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-24 14:53:21,263 - logger_file -INFO - User click on login button
+2022-12-24 14:55:30,011 - logger_file -INFO - React App is equal to React App
+2022-12-24 14:55:30,236 - logger_file -INFO - User click on Sign in option
+2022-12-24 14:55:30,461 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-24 14:55:30,557 - logger_file -INFO - User click on login button
+2022-12-24 14:55:30,734 - logger_file -INFO - user logged in into account
+2022-12-24 14:56:43,621 - logger_file -INFO - React App is equal to React App
+2022-12-24 14:56:43,781 - logger_file -INFO - User click on Sign in option
+2022-12-24 14:56:44,001 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-24 14:56:44,093 - logger_file -INFO - User click on login button
+2022-12-24 14:56:44,320 - logger_file -INFO - user logged in into account
+2022-12-24 14:57:55,674 - logger_file -INFO - React App is equal to React App
+2022-12-24 14:57:55,895 - logger_file -INFO - User click on Sign in option
+2022-12-24 14:57:56,115 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-24 14:57:56,204 - logger_file -INFO - User click on login button
+2022-12-24 14:57:56,446 - logger_file -INFO - user logged in into account
+2022-12-24 18:42:00,703 - logger_file -INFO - React App is equal to React App
+2022-12-24 18:42:00,945 - logger_file -INFO - User click on Sign in option
+2022-12-24 18:42:01,036 - logger_file -INFO - user clicked on Create New Account button
+2022-12-24 18:42:01,475 - logger_file -INFO - user entered required information into sign up form
+2022-12-24 18:42:06,571 - logger_file -INFO - user clicked on Sign up Button
+2022-12-24 18:42:06,837 - logger_file -INFO - Account was created
+2022-12-25 13:39:43,488 - logger_file -INFO - React App is equal to React App
+2022-12-25 13:39:43,747 - logger_file -INFO - User click on Sign in option
+2022-12-25 13:39:43,985 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 21:19:17,619 - logger_file -INFO - React App is equal to React App
+2022-12-25 21:19:17,980 - logger_file -INFO - User click on Sign in option
+2022-12-25 21:19:18,361 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 21:21:59,389 - logger_file -INFO - React App is equal to React App
+2022-12-25 21:21:59,586 - logger_file -INFO - User click on Sign in option
+2022-12-25 21:21:59,816 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 21:33:20,001 - logger_file -INFO - React App is equal to React App
+2022-12-25 21:35:21,480 - logger_file -INFO - React App is equal to React App
+2022-12-25 21:37:40,364 - logger_file -INFO - React App is equal to React App
+2022-12-25 21:37:40,491 - logger_file -INFO - User click on Sign in option
+2022-12-25 21:37:40,718 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 22:33:31,570 - logger_file -INFO - React App is equal to React App
+2022-12-25 22:33:31,805 - logger_file -INFO - User click on Sign in option
+2022-12-25 22:33:32,050 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 22:33:32,141 - logger_file -INFO - User click on login button
+2022-12-25 22:33:32,372 - logger_file -INFO - user logged in into account
+2022-12-25 22:33:37,516 - logger_file -INFO - User clicked on Account option
+2022-12-25 22:34:58,549 - logger_file -INFO - React App is equal to React App
+2022-12-25 22:34:58,772 - logger_file -INFO - User click on Sign in option
+2022-12-25 22:34:59,002 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 22:34:59,089 - logger_file -INFO - User click on login button
+2022-12-25 22:34:59,416 - logger_file -INFO - user logged in into account
+2022-12-25 22:37:49,996 - logger_file -INFO - React App is equal to React App
+2022-12-25 22:37:50,234 - logger_file -INFO - User click on Sign in option
+2022-12-25 22:37:50,458 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 22:37:50,546 - logger_file -INFO - User click on login button
+2022-12-25 22:37:50,725 - logger_file -INFO - user logged in into account
+2022-12-25 22:37:55,871 - logger_file -INFO - User clicked on Account option
+2022-12-25 22:40:42,408 - logger_file -INFO - React App is equal to React App
+2022-12-25 22:40:42,618 - logger_file -INFO - User click on Sign in option
+2022-12-25 22:40:42,832 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 22:40:42,920 - logger_file -INFO - User click on login button
+2022-12-25 22:40:43,136 - logger_file -INFO - user logged in into account
+2022-12-25 22:40:48,279 - logger_file -INFO - User clicked on Account option
+2022-12-25 22:59:04,277 - logger_file -INFO - React App is equal to React App
+2022-12-25 22:59:04,504 - logger_file -INFO - User click on Sign in option
+2022-12-25 22:59:04,735 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 22:59:04,823 - logger_file -INFO - User click on login button
+2022-12-25 22:59:05,059 - logger_file -INFO - user logged in into account
+2022-12-25 22:59:10,209 - logger_file -INFO - User clicked on Account option
+2022-12-25 23:02:54,631 - logger_file -INFO - React App is equal to React App
+2022-12-25 23:02:54,860 - logger_file -INFO - User click on Sign in option
+2022-12-25 23:02:55,084 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 23:02:55,172 - logger_file -INFO - User click on login button
+2022-12-25 23:02:55,355 - logger_file -INFO - user logged in into account
+2022-12-25 23:03:00,494 - logger_file -INFO - User clicked on Account option
+2022-12-25 23:04:02,391 - logger_file -INFO - React App is equal to React App
+2022-12-25 23:04:02,617 - logger_file -INFO - User click on Sign in option
+2022-12-25 23:04:02,850 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 23:04:02,939 - logger_file -INFO - User click on login button
+2022-12-25 23:04:03,149 - logger_file -INFO - user logged in into account
+2022-12-25 23:04:08,295 - logger_file -INFO - User clicked on Account option
+2022-12-25 23:14:58,735 - logger_file -INFO - React App is equal to React App
+2022-12-25 23:14:58,967 - logger_file -INFO - User click on Sign in option
+2022-12-25 23:14:59,192 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 23:14:59,279 - logger_file -INFO - User click on login button
+2022-12-25 23:14:59,464 - logger_file -INFO - user logged in into account
+2022-12-25 23:15:04,617 - logger_file -INFO - User clicked on Account option
+2022-12-25 23:18:35,781 - logger_file -INFO - React App is equal to React App
+2022-12-25 23:18:36,011 - logger_file -INFO - User click on Sign in option
+2022-12-25 23:18:36,239 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 23:18:36,320 - logger_file -INFO - User click on login button
+2022-12-25 23:18:36,537 - logger_file -INFO - user logged in into account
+2022-12-25 23:18:41,684 - logger_file -INFO - User clicked on Account option
+2022-12-25 23:18:42,037 - logger_file -INFO - user updated name and phone
+2022-12-25 23:18:42,127 - logger_file -INFO - user clicked on update button
+2022-12-25 23:18:42,769 - logger_file -INFO - user profile information is updated
+2022-12-25 23:58:02,384 - logger_file -INFO - React App is equal to React App
+2022-12-25 23:58:02,633 - logger_file -INFO - User click on Sign in option
+2022-12-25 23:58:02,885 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-25 23:58:02,978 - logger_file -INFO - User click on login button
+2022-12-25 23:58:03,196 - logger_file -INFO - user logged in into account
+2022-12-25 23:58:08,353 - logger_file -INFO - User clicked on Account option
+2022-12-26 00:01:48,024 - logger_file -INFO - React App is equal to React App
+2022-12-26 00:01:48,228 - logger_file -INFO - User click on Sign in option
+2022-12-26 00:01:48,453 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-26 00:01:48,540 - logger_file -INFO - User click on login button
+2022-12-26 00:01:48,734 - logger_file -INFO - user logged in into account
+2022-12-26 00:01:53,882 - logger_file -INFO - User clicked on Account option
+2022-12-26 00:02:38,142 - logger_file -INFO - React App is equal to React App
+2022-12-26 00:02:38,291 - logger_file -INFO - User click on Sign in option
+2022-12-26 00:02:38,517 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-26 00:02:38,612 - logger_file -INFO - User click on login button
+2022-12-26 00:02:38,796 - logger_file -INFO - user logged in into account
+2022-12-26 00:02:43,942 - logger_file -INFO - User clicked on Account option
+2022-12-26 00:52:46,262 - logger_file -INFO - React App is equal to React App
+2022-12-26 00:52:46,475 - logger_file -INFO - User click on Sign in option
+2022-12-26 00:52:46,697 - logger_file -INFO - user entered email raja@email.com and password Raja@123
+2022-12-26 00:52:46,783 - logger_file -INFO - User click on login button
+2022-12-26 00:52:46,988 - logger_file -INFO - user logged in into account
+2022-12-26 00:52:52,143 - logger_file -INFO - User clicked on Account option
+2022-12-26 00:52:52,497 - logger_file -INFO - user entered password information
+2022-12-26 00:52:52,576 - logger_file -INFO - user clicked on change password buuton
+2022-12-26 00:52:53,470 - logger_file -INFO - Password Updated Successfullyis displayed
+2022-12-26 01:03:53,811 - logger_file -INFO - React App is equal to React App
+2022-12-26 01:03:54,059 - logger_file -INFO - User click on Sign in option
+2022-12-26 01:03:54,297 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-26 01:03:54,378 - logger_file -INFO - User click on login button
+2022-12-26 01:03:54,575 - logger_file -INFO - user logged in into account
+2022-12-26 01:03:59,730 - logger_file -INFO - User clicked on Account option
+2022-12-28 18:27:51,522 - logger_file -INFO - React App is equal to React App
+2022-12-28 18:27:51,713 - logger_file -INFO - User click on Sign in option
+2022-12-28 18:27:52,010 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 18:27:52,132 - logger_file -INFO - User click on login button
+2022-12-28 18:27:52,433 - logger_file -INFO - user logged in into account
+2022-12-28 18:27:57,635 - logger_file -INFO - User clicked on Account option
+2022-12-28 19:29:58,030 - logger_file -INFO - React App is equal to React App
+2022-12-28 19:29:58,210 - logger_file -INFO - User click on Sign in option
+2022-12-28 19:29:58,547 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 19:29:58,676 - logger_file -INFO - User click on login button
+2022-12-28 19:29:58,914 - logger_file -INFO - user logged in into account
+2022-12-28 19:30:04,104 - logger_file -INFO - User clicked on Account option
+2022-12-28 19:30:04,238 - logger_file -INFO - user clicked on add a payment method link
+2022-12-28 19:34:42,837 - logger_file -INFO - React App is equal to React App
+2022-12-28 19:34:43,055 - logger_file -INFO - User click on Sign in option
+2022-12-28 19:34:43,407 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 19:34:43,541 - logger_file -INFO - User click on login button
+2022-12-28 19:34:43,830 - logger_file -INFO - user logged in into account
+2022-12-28 19:34:49,002 - logger_file -INFO - User clicked on Account option
+2022-12-28 19:34:49,130 - logger_file -INFO - user clicked on add a payment method link
+2022-12-28 19:44:28,818 - logger_file -INFO - React App is equal to React App
+2022-12-28 19:44:29,005 - logger_file -INFO - User click on Sign in option
+2022-12-28 19:44:29,368 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 19:44:29,480 - logger_file -INFO - User click on login button
+2022-12-28 19:44:29,804 - logger_file -INFO - user logged in into account
+2022-12-28 19:44:34,978 - logger_file -INFO - User clicked on Account option
+2022-12-28 19:44:35,112 - logger_file -INFO - user clicked on add a payment method link
+2022-12-28 19:56:32,697 - logger_file -INFO - React App is equal to React App
+2022-12-28 19:56:32,990 - logger_file -INFO - User click on Sign in option
+2022-12-28 19:56:33,412 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 19:56:33,538 - logger_file -INFO - User click on login button
+2022-12-28 19:56:33,836 - logger_file -INFO - user logged in into account
+2022-12-28 19:56:39,017 - logger_file -INFO - User clicked on Account option
+2022-12-28 19:56:39,141 - logger_file -INFO - user clicked on add a payment method link
+2022-12-28 20:00:43,650 - logger_file -INFO - React App is equal to React App
+2022-12-28 20:00:43,834 - logger_file -INFO - User click on Sign in option
+2022-12-28 20:00:44,231 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 20:00:44,426 - logger_file -INFO - User click on login button
+2022-12-28 20:00:44,649 - logger_file -INFO - user logged in into account
+2022-12-28 20:00:49,831 - logger_file -INFO - User clicked on Account option
+2022-12-28 20:00:49,959 - logger_file -INFO - user clicked on add a payment method link
+2022-12-28 20:00:50,617 - logger_file -INFO - user entered required card information
+2022-12-28 20:00:50,773 - logger_file -INFO - 
+2022-12-28 20:08:49,655 - logger_file -INFO - React App is equal to React App
+2022-12-28 20:08:49,887 - logger_file -INFO - User click on Sign in option
+2022-12-28 20:08:50,134 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 20:08:50,243 - logger_file -INFO - User click on login button
+2022-12-28 20:08:50,460 - logger_file -INFO - user logged in into account
+2022-12-28 20:08:55,617 - logger_file -INFO - User clicked on Account option
+2022-12-28 20:08:55,728 - logger_file -INFO - user clicked on add a payment method link
+2022-12-28 20:08:56,287 - logger_file -INFO - user entered required card information
+2022-12-28 20:08:56,386 - logger_file -INFO - 
+2022-12-28 20:09:27,160 - logger_file -INFO - React App is equal to React App
+2022-12-28 20:09:27,324 - logger_file -INFO - User click on Sign in option
+2022-12-28 20:09:27,577 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 20:09:27,680 - logger_file -INFO - User click on login button
+2022-12-28 20:09:27,916 - logger_file -INFO - user logged in into account
+2022-12-28 20:09:33,081 - logger_file -INFO - User clicked on Account option
+2022-12-28 20:09:33,191 - logger_file -INFO - user clicked on add a payment method link
+2022-12-28 20:09:33,757 - logger_file -INFO - user entered required card information
+2022-12-28 20:09:33,844 - logger_file -INFO - 
+2022-12-28 20:10:43,465 - logger_file -INFO - React App is equal to React App
+2022-12-28 20:10:43,710 - logger_file -INFO - User click on Sign in option
+2022-12-28 20:10:43,957 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 20:10:44,053 - logger_file -INFO - User click on login button
+2022-12-28 20:10:44,283 - logger_file -INFO - user logged in into account
+2022-12-28 20:10:49,441 - logger_file -INFO - User clicked on Account option
+2022-12-28 20:10:49,549 - logger_file -INFO - user clicked on add a payment method link
+2022-12-28 20:10:50,042 - logger_file -INFO - user entered required card information
+2022-12-28 20:10:50,132 - logger_file -INFO - 
+2022-12-28 20:10:50,768 - logger_file -INFO - Payment Method added sucessfullyis displayed
+2022-12-28 20:29:46,094 - logger_file -INFO - React App is equal to React App
+2022-12-28 20:29:46,335 - logger_file -INFO - User click on Sign in option
+2022-12-28 20:29:46,577 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 20:29:46,669 - logger_file -INFO - User click on login button
+2022-12-28 20:29:46,892 - logger_file -INFO - user logged in into account
+2022-12-28 20:29:52,047 - logger_file -INFO - User clicked on Account option
+2022-12-28 21:37:15,077 - logger_file -INFO - React App is equal to React App
+2022-12-28 21:37:15,359 - logger_file -INFO - User click on Sign in option
+2022-12-28 21:37:15,612 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 21:37:15,701 - logger_file -INFO - User click on login button
+2022-12-28 21:37:15,912 - logger_file -INFO - user logged in into account
+2022-12-28 21:37:21,072 - logger_file -INFO - User clicked on Account option
+2022-12-28 21:37:21,114 - logger_file -INFO - 4456is selected
+2022-12-28 21:38:14,654 - logger_file -INFO - React App is equal to React App
+2022-12-28 21:38:14,832 - logger_file -INFO - User click on Sign in option
+2022-12-28 21:38:15,143 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 21:38:15,250 - logger_file -INFO - User click on login button
+2022-12-28 21:38:15,449 - logger_file -INFO - user logged in into account
+2022-12-28 21:38:20,621 - logger_file -INFO - User clicked on Account option
+2022-12-28 21:38:20,663 - logger_file -INFO - 4456is selected
+2022-12-28 21:45:27,084 - logger_file -INFO - React App is equal to React App
+2022-12-28 21:45:27,257 - logger_file -INFO - User click on Sign in option
+2022-12-28 21:45:27,504 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-28 21:45:27,599 - logger_file -INFO - User click on login button
+2022-12-28 21:45:27,791 - logger_file -INFO - user logged in into account
+2022-12-28 21:45:32,951 - logger_file -INFO - User clicked on Account option
+2022-12-28 21:45:33,069 - logger_file -INFO - 4456is selected
+2022-12-28 21:45:33,193 - logger_file -INFO - user clicked on edit option
+2022-12-28 21:45:33,906 - logger_file -INFO - user entered required card information
+2022-12-28 21:45:33,997 - logger_file -INFO - user clicked on Update Your Card button
+2022-12-29 21:14:46,328 - logger_file -INFO - React App is equal to React App
+2022-12-29 21:14:46,556 - logger_file -INFO - User click on Sign in option
+2022-12-29 21:14:46,814 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-29 21:14:46,906 - logger_file -INFO - User click on login button
+2022-12-29 21:14:47,108 - logger_file -INFO - user logged in into account
+2022-12-29 21:14:52,264 - logger_file -INFO - User clicked on Account option
+2022-12-29 21:14:52,380 - logger_file -INFO - 4477is selected
+2022-12-29 22:06:53,272 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:06:53,521 - logger_file -INFO - User click on Sign in option
+2022-12-29 22:06:53,759 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-29 22:06:53,844 - logger_file -INFO - User click on login button
+2022-12-29 22:06:54,056 - logger_file -INFO - user logged in into account
+2022-12-29 22:06:59,220 - logger_file -INFO - User clicked on Account option
+2022-12-29 22:06:59,339 - logger_file -INFO - 4477is selected
+2022-12-29 22:06:59,455 - logger_file -INFO - user clicked on remove card option
+2022-12-29 22:09:40,342 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:09:40,580 - logger_file -INFO - User click on Sign in option
+2022-12-29 22:09:40,809 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-29 22:09:40,890 - logger_file -INFO - User click on login button
+2022-12-29 22:09:41,103 - logger_file -INFO - user logged in into account
+2022-12-29 22:09:46,249 - logger_file -INFO - User clicked on Account option
+2022-12-29 22:09:46,355 - logger_file -INFO - 4477is selected
+2022-12-29 22:09:46,458 - logger_file -INFO - user clicked on remove card option
+2022-12-29 22:12:44,393 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:12:44,635 - logger_file -INFO - User click on Sign in option
+2022-12-29 22:12:44,869 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-29 22:12:44,953 - logger_file -INFO - User click on login button
+2022-12-29 22:12:45,173 - logger_file -INFO - user logged in into account
+2022-12-29 22:12:50,329 - logger_file -INFO - User clicked on Account option
+2022-12-29 22:12:50,449 - logger_file -INFO - 4477is selected
+2022-12-29 22:12:50,553 - logger_file -INFO - user clicked on remove card option
+2022-12-29 22:12:50,582 - logger_file -INFO - 
+2022-12-29 22:29:21,879 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:29:22,084 - logger_file -INFO - User click on Sign in option
+2022-12-29 22:29:22,353 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-29 22:29:22,442 - logger_file -INFO - User click on login button
+2022-12-29 22:29:22,658 - logger_file -INFO - user logged in into account
+2022-12-29 22:29:27,807 - logger_file -INFO - User clicked on Account option
+2022-12-31 00:14:22,264 - logger_file -INFO - React App is equal to React App
+2022-12-31 00:14:22,541 - logger_file -INFO - User click on Sign in option
+2022-12-31 00:14:22,793 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 00:14:22,876 - logger_file -INFO - User click on login button
+2022-12-31 00:14:23,169 - logger_file -INFO - user logged in into account
+2022-12-31 00:14:28,352 - logger_file -INFO - User clicked on Account option
+2022-12-31 00:14:28,497 - logger_file -INFO - user clicked on address option
+2022-12-31 00:16:42,658 - logger_file -INFO - React App is equal to React App
+2022-12-31 00:16:42,905 - logger_file -INFO - User click on Sign in option
+2022-12-31 00:16:43,140 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 00:16:43,231 - logger_file -INFO - User click on login button
+2022-12-31 00:16:43,407 - logger_file -INFO - user logged in into account
+2022-12-31 00:16:48,569 - logger_file -INFO - User clicked on Account option
+2022-12-31 00:16:48,704 - logger_file -INFO - user clicked on address option
+2022-12-31 00:42:51,416 - logger_file -INFO - React App is equal to React App
+2022-12-31 00:42:51,645 - logger_file -INFO - User click on Sign in option
+2022-12-31 00:42:51,889 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 00:42:51,976 - logger_file -INFO - User click on login button
+2022-12-31 00:42:52,217 - logger_file -INFO - user logged in into account
+2022-12-31 00:42:57,397 - logger_file -INFO - User clicked on Account option
+2022-12-31 00:42:57,546 - logger_file -INFO - user clicked on address option
+2022-12-31 00:50:40,825 - logger_file -INFO - React App is equal to React App
+2022-12-31 00:50:40,994 - logger_file -INFO - User click on Sign in option
+2022-12-31 00:50:41,224 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 00:50:41,306 - logger_file -INFO - User click on login button
+2022-12-31 00:50:41,481 - logger_file -INFO - user logged in into account
+2022-12-31 00:50:46,622 - logger_file -INFO - User clicked on Account option
+2022-12-31 00:50:46,770 - logger_file -INFO - user clicked on address option
+2022-12-31 00:50:48,035 - logger_file -INFO - user filled the address form
+2022-12-31 20:14:23,241 - logger_file -INFO - React App is equal to React App
+2022-12-31 20:14:23,410 - logger_file -INFO - User click on Sign in option
+2022-12-31 20:14:23,654 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 20:14:23,740 - logger_file -INFO - User click on login button
+2022-12-31 20:14:23,961 - logger_file -INFO - user logged in into account
+2022-12-31 20:14:29,128 - logger_file -INFO - User clicked on Account option
+2022-12-31 20:28:01,571 - logger_file -INFO - React App is equal to React App
+2022-12-31 20:28:01,802 - logger_file -INFO - User click on Sign in option
+2022-12-31 20:28:02,029 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 20:28:02,114 - logger_file -INFO - User click on login button
+2022-12-31 20:28:02,337 - logger_file -INFO - user logged in into account
+2022-12-31 20:28:07,474 - logger_file -INFO - User clicked on Account option
+2022-12-31 20:28:07,599 - logger_file -INFO - user clicked on edit option
+2022-12-31 20:28:08,887 - logger_file -INFO - user filled the address form
+2022-12-31 20:28:08,966 - logger_file -INFO - user clicked on Update Your Address button
+2022-12-31 20:29:30,955 - logger_file -INFO - React App is equal to React App
+2022-12-31 20:29:31,099 - logger_file -INFO - User click on Sign in option
+2022-12-31 20:29:31,328 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 20:29:31,412 - logger_file -INFO - User click on login button
+2022-12-31 20:29:31,654 - logger_file -INFO - user logged in into account
+2022-12-31 20:29:36,809 - logger_file -INFO - User clicked on Account option
+2022-12-31 20:29:36,936 - logger_file -INFO - user clicked on address option
+2022-12-31 20:29:38,200 - logger_file -INFO - user filled the address form
+2022-12-31 20:32:24,440 - logger_file -INFO - React App is equal to React App
+2022-12-31 20:32:24,681 - logger_file -INFO - User click on Sign in option
+2022-12-31 20:32:24,917 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 20:32:25,005 - logger_file -INFO - User click on login button
+2022-12-31 20:32:25,182 - logger_file -INFO - user logged in into account
+2022-12-31 20:32:30,333 - logger_file -INFO - User clicked on Account option
+2022-12-31 20:41:43,124 - logger_file -INFO - React App is equal to React App
+2022-12-31 20:41:43,364 - logger_file -INFO - User click on Sign in option
+2022-12-31 20:41:43,610 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 20:41:43,704 - logger_file -INFO - User click on login button
+2022-12-31 20:41:43,957 - logger_file -INFO - user logged in into account
+2022-12-31 20:41:49,107 - logger_file -INFO - User clicked on Account option
+2022-12-31 20:41:49,236 - logger_file -INFO - user clicked on address option
+2022-12-31 20:41:50,539 - logger_file -INFO - user filled the address form
+2022-12-31 20:42:53,006 - logger_file -INFO - React App is equal to React App
+2022-12-31 20:42:53,244 - logger_file -INFO - User click on Sign in option
+2022-12-31 20:42:53,467 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2022-12-31 20:42:53,549 - logger_file -INFO - User click on login button
+2022-12-31 20:42:53,770 - logger_file -INFO - user logged in into account
+2022-12-31 20:42:58,908 - logger_file -INFO - User clicked on Account option
+2022-12-31 20:42:59,011 - logger_file -INFO - user clicked on remove address option
+2022-12-31 20:42:59,040 - logger_file -INFO - 
+2022-12-31 20:57:15,404 - logger_file -INFO - React App is equal to React App
+2022-12-31 22:17:27,574 - logger_file -INFO - React App is equal to React App
+2022-12-31 22:17:27,786 - logger_file -INFO - User clicked on All Section
+2022-12-31 22:17:27,938 - logger_file -INFO - below options are present in Shop by Department sidebar
+2022-12-31 22:18:05,473 - logger_file -INFO - React App is equal to React App
+2022-12-31 22:18:05,583 - logger_file -INFO - User clicked on All Section
+2022-12-31 22:18:05,745 - logger_file -INFO - below options are present in Shop by Department sidebar
+2022-12-31 22:24:48,356 - logger_file -INFO - React App is equal to React App
+2022-12-31 22:24:48,579 - logger_file -INFO - User clicked on All Section
+2022-12-31 22:24:51,153 - logger_file -INFO - React App is equal to React App
+2022-12-31 22:24:51,353 - logger_file -INFO - User clicked on All Section
+2022-12-31 22:24:53,906 - logger_file -INFO - React App is equal to React App
+2022-12-31 22:24:54,027 - logger_file -INFO - User clicked on All Section
+2022-12-31 22:24:56,616 - logger_file -INFO - React App is equal to React App
+2022-12-31 22:24:56,877 - logger_file -INFO - User clicked on All Section
+2022-12-31 22:24:59,707 - logger_file -INFO - React App is equal to React App
+2022-12-31 22:24:59,862 - logger_file -INFO - User clicked on All Section
+2023-01-01 21:24:10,969 - logger_file -INFO - React App is equal to React App
+2023-01-01 21:24:11,196 - logger_file -INFO - User click on Sign in option
+2023-01-01 21:24:11,442 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-01 21:24:11,530 - logger_file -INFO - User click on login button
+2023-01-01 21:24:11,910 - logger_file -INFO - user logged in into account
+2023-01-01 21:24:17,056 - logger_file -INFO - User clicked on Account option
+2023-01-01 21:25:41,395 - logger_file -INFO - React App is equal to React App
+2023-01-01 21:25:41,607 - logger_file -INFO - User click on Sign in option
+2023-01-01 21:25:41,837 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-01 21:25:41,919 - logger_file -INFO - User click on login button
+2023-01-01 21:25:42,133 - logger_file -INFO - user logged in into account
+2023-01-01 21:25:47,262 - logger_file -INFO - User clicked on Account option
+2023-01-01 21:25:47,398 - logger_file -INFO - user clicked on address option
+2023-01-01 21:25:48,649 - logger_file -INFO - user filled the address form
+2023-01-01 22:27:31,365 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:27:31,578 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:28:26,472 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:28:26,587 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:29:28,073 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:29:28,278 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:29:35,314 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:29:35,414 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:29:39,559 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:29:39,693 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:29:42,911 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:29:43,024 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:34:54,536 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:34:54,737 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:40:50,330 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:40:50,530 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:40:53,135 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:40:53,254 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:40:55,848 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:40:55,970 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:40:58,625 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:40:58,731 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:41:01,427 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:41:01,527 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:49:07,952 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:49:08,097 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:49:08,218 - logger_file -INFO - TV & Videois present
+2023-01-01 22:49:08,281 - logger_file -INFO - Video Gamesis present
+2023-01-01 22:49:10,925 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:49:11,044 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:49:11,165 - logger_file -INFO - Accessoriesis present
+2023-01-01 22:49:11,220 - logger_file -INFO - Networkingis present
+2023-01-01 22:49:13,767 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:49:13,866 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:49:13,998 - logger_file -INFO - Smart Home Lightningis present
+2023-01-01 22:49:14,057 - logger_file -INFO - Plugs and Outletsis present
+2023-01-01 22:49:16,582 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:49:16,697 - logger_file -INFO - User clicked on All Section
+2023-01-01 22:49:19,408 - logger_file -INFO - React App is equal to React App
+2023-01-01 22:49:19,509 - logger_file -INFO - User clicked on All Section
+2023-01-01 23:02:01,268 - logger_file -INFO - React App is equal to React App
+2023-01-01 23:02:01,405 - logger_file -INFO - User click on Sign in option
+2023-01-01 23:02:01,641 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-01 23:02:01,724 - logger_file -INFO - User click on login button
+2023-01-01 23:02:01,941 - logger_file -INFO - user logged in into account
+2023-01-01 23:03:53,332 - logger_file -INFO - React App is equal to React App
+2023-01-01 23:03:53,563 - logger_file -INFO - User click on Sign in option
+2023-01-01 23:03:53,788 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-01 23:03:53,873 - logger_file -INFO - User click on login button
+2023-01-01 23:03:54,090 - logger_file -INFO - user logged in into account
+2023-01-02 00:24:39,073 - logger_file -INFO - React App is equal to React App
+2023-01-02 00:24:39,326 - logger_file -INFO - User click on Sign in option
+2023-01-02 00:24:39,554 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 00:24:39,643 - logger_file -INFO - User click on login button
+2023-01-02 00:24:39,848 - logger_file -INFO - user logged in into account
+2023-01-02 00:24:44,956 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 00:24:45,076 - logger_file -INFO - user enteredkasa outdoor smart plug
+2023-01-02 00:24:45,153 - logger_file -INFO - user clicked on search button
+2023-01-02 00:31:04,106 - logger_file -INFO - React App is equal to React App
+2023-01-02 00:31:04,334 - logger_file -INFO - User click on Sign in option
+2023-01-02 00:31:04,565 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 00:31:04,652 - logger_file -INFO - User click on login button
+2023-01-02 00:31:04,830 - logger_file -INFO - user logged in into account
+2023-01-02 00:31:09,931 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 00:31:10,048 - logger_file -INFO - user enteredkasa outdoor smart plug
+2023-01-02 00:31:10,118 - logger_file -INFO - user clicked on search button
+2023-01-02 00:41:10,368 - logger_file -INFO - React App is equal to React App
+2023-01-02 00:41:10,612 - logger_file -INFO - User click on Sign in option
+2023-01-02 00:41:10,841 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 00:41:10,928 - logger_file -INFO - User click on login button
+2023-01-02 00:41:11,151 - logger_file -INFO - user logged in into account
+2023-01-02 00:41:16,241 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 00:41:16,364 - logger_file -INFO - user enteredkasa outdoor smart plug
+2023-01-02 00:41:16,438 - logger_file -INFO - user clicked on search button
+2023-01-02 00:45:23,049 - logger_file -INFO - React App is equal to React App
+2023-01-02 00:45:23,194 - logger_file -INFO - User click on Sign in option
+2023-01-02 00:45:23,423 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 00:45:23,507 - logger_file -INFO - User click on login button
+2023-01-02 00:45:23,731 - logger_file -INFO - user logged in into account
+2023-01-02 00:45:28,832 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 00:45:28,947 - logger_file -INFO - user enteredkasa outdoor smart plug
+2023-01-02 00:45:29,020 - logger_file -INFO - user clicked on search button
+2023-01-02 00:50:49,385 - logger_file -INFO - React App is equal to React App
+2023-01-02 00:50:49,621 - logger_file -INFO - User click on Sign in option
+2023-01-02 00:50:49,860 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 00:50:49,949 - logger_file -INFO - User click on login button
+2023-01-02 00:50:50,159 - logger_file -INFO - user logged in into account
+2023-01-02 00:50:55,248 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 00:50:55,365 - logger_file -INFO - user enteredkasa outdoor smart plug
+2023-01-02 00:50:55,442 - logger_file -INFO - user clicked on search button
+2023-01-02 00:53:20,023 - logger_file -INFO - React App is equal to React App
+2023-01-02 00:53:20,254 - logger_file -INFO - User click on Sign in option
+2023-01-02 00:53:20,475 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 00:53:20,557 - logger_file -INFO - User click on login button
+2023-01-02 00:53:20,777 - logger_file -INFO - user logged in into account
+2023-01-02 00:53:25,872 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 00:53:25,991 - logger_file -INFO - user enteredKasa outdoor smart plug
+2023-01-02 00:53:26,065 - logger_file -INFO - user clicked on search button
+2023-01-02 00:55:37,413 - logger_file -INFO - React App is equal to React App
+2023-01-02 00:55:37,653 - logger_file -INFO - User click on Sign in option
+2023-01-02 00:55:37,876 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 00:55:37,956 - logger_file -INFO - User click on login button
+2023-01-02 00:55:38,144 - logger_file -INFO - user logged in into account
+2023-01-02 00:55:43,237 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 00:55:43,355 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 00:55:43,434 - logger_file -INFO - user clicked on search button
+2023-01-02 00:57:41,156 - logger_file -INFO - React App is equal to React App
+2023-01-02 00:57:41,404 - logger_file -INFO - User click on Sign in option
+2023-01-02 00:57:41,639 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 00:57:41,729 - logger_file -INFO - User click on login button
+2023-01-02 00:57:41,924 - logger_file -INFO - user logged in into account
+2023-01-02 00:57:47,016 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 00:57:47,140 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 00:57:47,229 - logger_file -INFO - user clicked on search button
+2023-01-02 01:11:39,858 - logger_file -INFO - React App is equal to React App
+2023-01-02 01:11:40,078 - logger_file -INFO - User click on Sign in option
+2023-01-02 01:11:40,306 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 01:11:40,391 - logger_file -INFO - User click on login button
+2023-01-02 01:11:40,589 - logger_file -INFO - user logged in into account
+2023-01-02 01:11:45,689 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 01:11:45,813 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 01:11:45,892 - logger_file -INFO - user clicked on search button
+2023-01-02 01:11:46,061 - logger_file -INFO - user clicked on item
+2023-01-02 01:11:46,227 - logger_file -INFO - user seleceted quantity2
+2023-01-02 01:11:46,337 - logger_file -INFO - user clicked add to cart button
+2023-01-02 01:11:46,431 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:02:33,225 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:02:33,473 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:02:33,704 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:02:33,790 - logger_file -INFO - User click on login button
+2023-01-02 19:02:34,004 - logger_file -INFO - user logged in into account
+2023-01-02 19:02:39,101 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:02:39,223 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:02:39,309 - logger_file -INFO - user clicked on search button
+2023-01-02 19:02:39,485 - logger_file -INFO - user clicked on item
+2023-01-02 19:02:39,637 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:02:39,745 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:02:39,770 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:30:39,604 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:30:39,831 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:30:40,070 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:30:40,163 - logger_file -INFO - User click on login button
+2023-01-02 19:30:40,379 - logger_file -INFO - user logged in into account
+2023-01-02 19:30:45,481 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:30:45,601 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:30:45,679 - logger_file -INFO - user clicked on search button
+2023-01-02 19:30:45,857 - logger_file -INFO - user clicked on item
+2023-01-02 19:30:46,005 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:30:46,114 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:30:46,141 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:30:46,249 - logger_file -INFO - user clicked on cart button
+2023-01-02 19:30:46,355 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 19:30:46,459 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 19:30:47,666 - logger_file -INFO - user filled the address form
+2023-01-02 19:30:47,887 - logger_file -INFO - user clicked on add a credi or debit card for payment method
+2023-01-02 19:30:48,368 - logger_file -INFO - user entered required card information
+2023-01-02 19:30:48,453 - logger_file -INFO - User clicked on Add your card button
+2023-01-02 19:30:48,552 - logger_file -INFO - user clicked on place your order button
+2023-01-02 19:32:07,670 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:32:07,910 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:32:08,132 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:32:08,212 - logger_file -INFO - User click on login button
+2023-01-02 19:32:08,420 - logger_file -INFO - user logged in into account
+2023-01-02 19:32:13,507 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:32:13,624 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:32:13,703 - logger_file -INFO - user clicked on search button
+2023-01-02 19:32:13,869 - logger_file -INFO - user clicked on item
+2023-01-02 19:32:14,021 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:32:14,135 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:32:54,958 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:32:55,096 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:32:55,330 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:32:55,417 - logger_file -INFO - User click on login button
+2023-01-02 19:32:55,646 - logger_file -INFO - user logged in into account
+2023-01-02 19:33:00,742 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:33:00,860 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:33:00,939 - logger_file -INFO - user clicked on search button
+2023-01-02 19:33:01,109 - logger_file -INFO - user clicked on item
+2023-01-02 19:33:01,267 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:33:01,374 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:33:01,465 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:33:01,567 - logger_file -INFO - user clicked on cart button
+2023-01-02 19:33:01,680 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 19:33:01,790 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 19:33:03,049 - logger_file -INFO - user filled the address form
+2023-01-02 19:33:03,291 - logger_file -INFO - user clicked on add a credi or debit card for payment method
+2023-01-02 19:33:03,784 - logger_file -INFO - user entered required card information
+2023-01-02 19:33:03,874 - logger_file -INFO - User clicked on Add your card button
+2023-01-02 19:38:12,629 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:38:12,859 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:38:13,088 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:38:13,170 - logger_file -INFO - User click on login button
+2023-01-02 19:38:13,403 - logger_file -INFO - user logged in into account
+2023-01-02 19:38:18,496 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:38:18,610 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:38:18,690 - logger_file -INFO - user clicked on search button
+2023-01-02 19:38:18,854 - logger_file -INFO - user clicked on item
+2023-01-02 19:38:19,011 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:38:19,113 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:38:19,199 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:38:19,289 - logger_file -INFO - user clicked on cart button
+2023-01-02 19:38:19,394 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 19:38:19,503 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 19:38:20,628 - logger_file -INFO - user filled the address form
+2023-01-02 19:38:20,861 - logger_file -INFO - user clicked on add a credi or debit card for payment method
+2023-01-02 19:38:21,343 - logger_file -INFO - user entered required card information
+2023-01-02 19:38:21,433 - logger_file -INFO - User clicked on Add your card button
+2023-01-02 19:45:59,757 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:45:59,949 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:46:00,186 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:46:00,266 - logger_file -INFO - User click on login button
+2023-01-02 19:46:00,509 - logger_file -INFO - user logged in into account
+2023-01-02 19:46:05,608 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:46:05,726 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:46:05,807 - logger_file -INFO - user clicked on search button
+2023-01-02 19:46:05,976 - logger_file -INFO - user clicked on item
+2023-01-02 19:46:06,131 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:46:06,244 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:46:06,331 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:46:06,425 - logger_file -INFO - user clicked on cart button
+2023-01-02 19:46:06,542 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 19:46:06,651 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 19:46:07,877 - logger_file -INFO - user filled the address form
+2023-01-02 19:48:09,639 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:48:09,801 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:48:10,026 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:48:10,102 - logger_file -INFO - User click on login button
+2023-01-02 19:48:10,348 - logger_file -INFO - user logged in into account
+2023-01-02 19:48:15,437 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:48:15,550 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:48:15,631 - logger_file -INFO - user clicked on search button
+2023-01-02 19:48:15,806 - logger_file -INFO - user clicked on item
+2023-01-02 19:48:15,960 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:48:16,069 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:48:16,163 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:48:16,273 - logger_file -INFO - user clicked on cart button
+2023-01-02 19:48:16,383 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 19:48:16,493 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 19:48:17,774 - logger_file -INFO - user filled the address form
+2023-01-02 19:52:54,571 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:52:54,709 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:52:54,939 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:52:55,031 - logger_file -INFO - User click on login button
+2023-01-02 19:52:55,224 - logger_file -INFO - user logged in into account
+2023-01-02 19:53:00,322 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:53:00,452 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:53:00,537 - logger_file -INFO - user clicked on search button
+2023-01-02 19:53:00,715 - logger_file -INFO - user clicked on item
+2023-01-02 19:53:00,871 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:53:00,969 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:53:01,069 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:53:01,167 - logger_file -INFO - user clicked on cart button
+2023-01-02 19:53:01,265 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 19:53:01,367 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 19:53:02,538 - logger_file -INFO - user filled the address form
+2023-01-02 19:53:02,768 - logger_file -INFO - user clicked on add a credi or debit card for payment method
+2023-01-02 19:53:03,267 - logger_file -INFO - user entered required card information
+2023-01-02 19:53:03,363 - logger_file -INFO - User clicked on Add your card button
+2023-01-02 19:53:03,464 - logger_file -INFO - user clicked on place your order button
+2023-01-02 19:55:31,097 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:55:31,245 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:55:31,469 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:55:31,551 - logger_file -INFO - User click on login button
+2023-01-02 19:55:31,744 - logger_file -INFO - user logged in into account
+2023-01-02 19:55:36,834 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:55:36,952 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:55:37,030 - logger_file -INFO - user clicked on search button
+2023-01-02 19:55:37,210 - logger_file -INFO - user clicked on item
+2023-01-02 19:55:37,365 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:55:37,468 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:55:37,554 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:55:37,651 - logger_file -INFO - user clicked on cart button
+2023-01-02 19:55:37,748 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 19:55:37,851 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 19:55:38,991 - logger_file -INFO - user filled the address form
+2023-01-02 19:56:58,730 - logger_file -INFO - React App is equal to React App
+2023-01-02 19:56:58,866 - logger_file -INFO - User click on Sign in option
+2023-01-02 19:56:59,092 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 19:56:59,181 - logger_file -INFO - User click on login button
+2023-01-02 19:56:59,392 - logger_file -INFO - user logged in into account
+2023-01-02 19:57:04,490 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 19:57:04,603 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 19:57:04,691 - logger_file -INFO - user clicked on search button
+2023-01-02 19:57:04,865 - logger_file -INFO - user clicked on item
+2023-01-02 19:57:05,023 - logger_file -INFO - user seleceted quantity2
+2023-01-02 19:57:05,139 - logger_file -INFO - user clicked add to cart button
+2023-01-02 19:57:05,234 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 19:57:05,333 - logger_file -INFO - user clicked on cart button
+2023-01-02 19:57:05,432 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 19:57:05,538 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 19:57:06,666 - logger_file -INFO - user filled the address form
+2023-01-02 20:00:12,249 - logger_file -INFO - React App is equal to React App
+2023-01-02 20:00:12,503 - logger_file -INFO - User click on Sign in option
+2023-01-02 20:00:12,729 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 20:00:12,811 - logger_file -INFO - User click on login button
+2023-01-02 20:00:13,201 - logger_file -INFO - user logged in into account
+2023-01-02 20:00:18,294 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 20:00:18,411 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 20:00:18,493 - logger_file -INFO - user clicked on search button
+2023-01-02 20:00:18,657 - logger_file -INFO - user clicked on item
+2023-01-02 20:00:18,811 - logger_file -INFO - user seleceted quantity2
+2023-01-02 20:00:18,924 - logger_file -INFO - user clicked add to cart button
+2023-01-02 20:00:18,951 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 20:00:19,059 - logger_file -INFO - user clicked on cart button
+2023-01-02 20:00:19,157 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 20:00:19,261 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 20:00:20,424 - logger_file -INFO - user filled the address form
+2023-01-02 20:00:50,928 - logger_file -INFO - React App is equal to React App
+2023-01-02 20:00:51,140 - logger_file -INFO - User click on Sign in option
+2023-01-02 20:00:51,358 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 20:00:51,436 - logger_file -INFO - User click on login button
+2023-01-02 20:00:51,626 - logger_file -INFO - user logged in into account
+2023-01-02 20:00:56,722 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 20:00:56,840 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 20:00:56,925 - logger_file -INFO - user clicked on search button
+2023-01-02 20:00:57,096 - logger_file -INFO - user clicked on item
+2023-01-02 20:00:57,256 - logger_file -INFO - user seleceted quantity2
+2023-01-02 20:00:57,353 - logger_file -INFO - user clicked add to cart button
+2023-01-02 20:00:57,442 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 20:00:57,541 - logger_file -INFO - user clicked on cart button
+2023-01-02 20:00:57,647 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 20:00:57,756 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 20:00:58,992 - logger_file -INFO - user filled the address form
+2023-01-02 20:05:33,258 - logger_file -INFO - React App is equal to React App
+2023-01-02 20:05:33,398 - logger_file -INFO - User click on Sign in option
+2023-01-02 20:05:33,627 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 20:05:33,711 - logger_file -INFO - User click on login button
+2023-01-02 20:05:33,928 - logger_file -INFO - user logged in into account
+2023-01-02 20:05:39,040 - logger_file -INFO - Smart Homewas Selected from dromdown
+2023-01-02 20:05:39,152 - logger_file -INFO - user enteredKasa Outdoor Smart Plug
+2023-01-02 20:05:39,229 - logger_file -INFO - user clicked on search button
+2023-01-02 20:05:39,399 - logger_file -INFO - user clicked on item
+2023-01-02 20:05:39,552 - logger_file -INFO - user seleceted quantity2
+2023-01-02 20:05:39,672 - logger_file -INFO - user clicked add to cart button
+2023-01-02 20:05:39,758 - logger_file -INFO - the cart icon quantity change to2
+2023-01-02 20:05:39,856 - logger_file -INFO - user clicked on cart button
+2023-01-02 20:05:39,957 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 20:05:40,072 - logger_file -INFO - user clicked add a new address link for shipping address
+2023-01-02 20:05:41,385 - logger_file -INFO - user filled the address form
+2023-01-02 20:05:41,606 - logger_file -INFO - user clicked on add a credi or debit card for payment method
+2023-01-02 20:05:42,085 - logger_file -INFO - user entered required card information
+2023-01-02 20:05:42,174 - logger_file -INFO - User clicked on Add your card button
+2023-01-02 20:05:42,275 - logger_file -INFO - user clicked on place your order button
+2023-01-02 20:23:58,966 - logger_file -INFO - React App is equal to React App
+2023-01-02 20:23:59,196 - logger_file -INFO - User click on Sign in option
+2023-01-02 20:23:59,436 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 20:23:59,522 - logger_file -INFO - User click on login button
+2023-01-02 20:23:59,763 - logger_file -INFO - user logged in into account
+2023-01-02 20:24:04,853 - logger_file -INFO - Electronicswas Selected from dromdown
+2023-01-02 20:24:04,964 - logger_file -INFO - user enteredApex Legends
+2023-01-02 20:24:05,042 - logger_file -INFO - user clicked on search button
+2023-01-02 20:24:35,576 - logger_file -INFO - React App is equal to React App
+2023-01-02 20:24:35,736 - logger_file -INFO - User click on Sign in option
+2023-01-02 20:24:35,969 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 20:24:36,053 - logger_file -INFO - User click on login button
+2023-01-02 20:24:36,225 - logger_file -INFO - user logged in into account
+2023-01-02 20:24:41,322 - logger_file -INFO - Electronicswas Selected from dromdown
+2023-01-02 20:24:41,430 - logger_file -INFO - user enteredApex Legends
+2023-01-02 20:24:41,520 - logger_file -INFO - user clicked on search button
+2023-01-02 20:35:32,250 - logger_file -INFO - React App is equal to React App
+2023-01-02 20:35:32,485 - logger_file -INFO - User click on Sign in option
+2023-01-02 20:35:32,708 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 20:35:32,789 - logger_file -INFO - User click on login button
+2023-01-02 20:35:32,970 - logger_file -INFO - user logged in into account
+2023-01-02 20:35:38,067 - logger_file -INFO - Electronicswas Selected from dromdown
+2023-01-02 20:35:38,170 - logger_file -INFO - user enteredApex Legends
+2023-01-02 20:35:38,249 - logger_file -INFO - user clicked on search button
+2023-01-02 20:35:38,413 - logger_file -INFO - user clicked on item
+2023-01-02 20:35:38,567 - logger_file -INFO - user seleceted quantity5
+2023-01-02 20:35:38,679 - logger_file -INFO - user clicked add to cart button
+2023-01-02 20:35:38,773 - logger_file -INFO - the cart icon quantity change to5
+2023-01-02 20:35:38,872 - logger_file -INFO - user clicked on cart button
+2023-01-02 20:35:38,984 - logger_file -INFO - user clicked on procceed to check out button
+2023-01-02 20:35:39,078 - logger_file -INFO - user clicked on place your order button
+2023-01-02 21:58:29,170 - logger_file -INFO - React App is equal to React App
+2023-01-02 21:58:29,399 - logger_file -INFO - User click on Sign in option
+2023-01-02 21:58:29,633 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 21:58:29,728 - logger_file -INFO - User click on login button
+2023-01-02 21:58:29,935 - logger_file -INFO - user logged in into account
+2023-01-02 21:58:35,096 - logger_file -INFO - user clicked on order section
+2023-01-02 21:58:35,201 - logger_file -INFO - user clicked on first order
+2023-01-02 21:58:35,323 - logger_file -INFO - user clicked on cancel button
+2023-01-02 22:00:38,056 - logger_file -INFO - React App is equal to React App
+2023-01-02 22:00:38,275 - logger_file -INFO - User click on Sign in option
+2023-01-02 22:00:38,499 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 22:00:38,585 - logger_file -INFO - User click on login button
+2023-01-02 22:00:38,783 - logger_file -INFO - user logged in into account
+2023-01-02 22:00:43,927 - logger_file -INFO - user clicked on order section
+2023-01-02 22:00:44,030 - logger_file -INFO - user clicked on first order
+2023-01-02 22:00:44,141 - logger_file -INFO - user clicked on cancel button
+2023-01-02 22:04:24,856 - logger_file -INFO - React App is equal to React App
+2023-01-02 22:04:25,074 - logger_file -INFO - User click on Sign in option
+2023-01-02 22:04:25,307 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 22:04:25,393 - logger_file -INFO - User click on login button
+2023-01-02 22:04:25,629 - logger_file -INFO - user logged in into account
+2023-01-02 22:04:30,771 - logger_file -INFO - user clicked on order section
+2023-01-02 22:04:30,868 - logger_file -INFO - user clicked on first order
+2023-01-02 22:04:30,973 - logger_file -INFO - user clicked on cancel button
+2023-01-02 22:07:40,473 - logger_file -INFO - React App is equal to React App
+2023-01-02 22:07:40,691 - logger_file -INFO - User click on Sign in option
+2023-01-02 22:07:40,915 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 22:07:41,006 - logger_file -INFO - User click on login button
+2023-01-02 22:07:41,205 - logger_file -INFO - user logged in into account
+2023-01-02 22:07:46,344 - logger_file -INFO - user clicked on order section
+2023-01-02 22:07:46,448 - logger_file -INFO - user clicked on first order
+2023-01-02 22:07:46,552 - logger_file -INFO - user clicked on cancel button
+2023-01-02 22:10:37,906 - logger_file -INFO - React App is equal to React App
+2023-01-02 22:10:38,154 - logger_file -INFO - User click on Sign in option
+2023-01-02 22:10:38,544 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 22:10:38,689 - logger_file -INFO - User click on login button
+2023-01-02 22:10:38,886 - logger_file -INFO - user logged in into account
+2023-01-02 22:10:44,095 - logger_file -INFO - user clicked on order section
+2023-01-02 22:10:44,255 - logger_file -INFO - user clicked on first order
+2023-01-02 22:10:44,433 - logger_file -INFO - user clicked on cancel button
+2023-01-02 22:10:44,600 - logger_file -INFO - user selected the cancelation reasonBought wrong item
+2023-01-02 22:10:44,732 - logger_file -INFO - user clicked on cancel order button
+2023-01-02 22:10:44,837 - logger_file -INFO - a cancelation message displayedYour Order Has Been Cancelled
+2023-01-02 22:56:09,390 - logger_file -INFO - React App is equal to React App
+2023-01-02 22:56:09,529 - logger_file -INFO - User click on Sign in option
+2023-01-02 22:56:09,756 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 22:56:09,845 - logger_file -INFO - User click on login button
+2023-01-02 22:56:10,058 - logger_file -INFO - user logged in into account
+2023-01-02 22:56:15,202 - logger_file -INFO - user clicked on order section
+2023-01-02 22:56:15,304 - logger_file -INFO - user clicked on first order
+2023-01-02 22:57:32,755 - logger_file -INFO - React App is equal to React App
+2023-01-02 22:57:32,907 - logger_file -INFO - User click on Sign in option
+2023-01-02 22:57:33,132 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 22:57:33,223 - logger_file -INFO - User click on login button
+2023-01-02 22:57:33,442 - logger_file -INFO - user logged in into account
+2023-01-02 22:57:38,576 - logger_file -INFO - user clicked on order section
+2023-01-02 22:57:38,679 - logger_file -INFO - user clicked on first order
+2023-01-02 22:57:38,799 - logger_file -INFO - user clicked on return item button
+2023-01-02 22:57:38,884 - logger_file -INFO - user selected the cancelation reasonItem damaged
+2023-01-02 22:57:38,955 - logger_file -INFO - User selected the drop off serviceFedEx
+2023-01-02 22:57:39,038 - logger_file -INFO - User clicked on Return Order button
+2023-01-02 22:57:39,128 - logger_file -INFO - a cancelation message displayedReturn was successfull
+2023-01-02 23:31:42,035 - logger_file -INFO - React App is equal to React App
+2023-01-02 23:31:42,250 - logger_file -INFO - User click on Sign in option
+2023-01-02 23:31:42,476 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 23:31:42,555 - logger_file -INFO - User click on login button
+2023-01-02 23:31:42,776 - logger_file -INFO - user logged in into account
+2023-01-02 23:31:47,919 - logger_file -INFO - user clicked on order section
+2023-01-02 23:31:48,020 - logger_file -INFO - user clicked on first order
+2023-01-02 23:31:48,119 - logger_file -INFO - User clicked on Review button
+2023-01-02 23:31:48,339 - logger_file -INFO - user wrote review on product
+2023-01-02 23:31:48,431 - logger_file -INFO - User clicked Add your Review button
+2023-01-02 23:36:37,060 - logger_file -INFO - React App is equal to React App
+2023-01-02 23:36:37,198 - logger_file -INFO - User click on Sign in option
+2023-01-02 23:36:37,435 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 23:36:37,520 - logger_file -INFO - User click on login button
+2023-01-02 23:36:37,743 - logger_file -INFO - user logged in into account
+2023-01-02 23:36:42,892 - logger_file -INFO - user clicked on order section
+2023-01-02 23:36:42,995 - logger_file -INFO - user clicked on first order
+2023-01-02 23:36:43,095 - logger_file -INFO - User clicked on Review button
+2023-01-02 23:36:43,300 - logger_file -INFO - user wrote review on product
+2023-01-02 23:36:43,392 - logger_file -INFO - User clicked Add your Review button
+2023-01-02 23:43:48,453 - logger_file -INFO - React App is equal to React App
+2023-01-02 23:43:48,683 - logger_file -INFO - User click on Sign in option
+2023-01-02 23:43:48,908 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 23:43:48,995 - logger_file -INFO - User click on login button
+2023-01-02 23:43:49,177 - logger_file -INFO - user logged in into account
+2023-01-02 23:43:54,313 - logger_file -INFO - user clicked on order section
+2023-01-02 23:43:54,415 - logger_file -INFO - user clicked on first order
+2023-01-02 23:43:54,519 - logger_file -INFO - User clicked on Review button
+2023-01-02 23:43:54,727 - logger_file -INFO - user wrote review on product
+2023-01-02 23:43:54,816 - logger_file -INFO - User clicked Add your Review button
+2023-01-02 23:47:35,358 - logger_file -INFO - React App is equal to React App
+2023-01-02 23:47:35,521 - logger_file -INFO - User click on Sign in option
+2023-01-02 23:47:35,745 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 23:47:35,836 - logger_file -INFO - User click on login button
+2023-01-02 23:47:36,031 - logger_file -INFO - user logged in into account
+2023-01-02 23:47:41,187 - logger_file -INFO - user clicked on order section
+2023-01-02 23:47:41,291 - logger_file -INFO - user clicked on first order
+2023-01-02 23:47:41,400 - logger_file -INFO - User clicked on Review button
+2023-01-02 23:47:41,621 - logger_file -INFO - user wrote review on product
+2023-01-02 23:47:41,720 - logger_file -INFO - User clicked Add your Review button
+2023-01-02 23:53:18,480 - logger_file -INFO - React App is equal to React App
+2023-01-02 23:53:18,611 - logger_file -INFO - User click on Sign in option
+2023-01-02 23:53:18,836 - logger_file -INFO - user entered email raja@email.com and password Raja1@123
+2023-01-02 23:53:18,919 - logger_file -INFO - User click on login button
+2023-01-02 23:53:19,098 - logger_file -INFO - user logged in into account
+2023-01-02 23:53:24,233 - logger_file -INFO - user clicked on order section
+2023-01-02 23:53:24,334 - logger_file -INFO - user clicked on first order
+2023-01-02 23:53:24,439 - logger_file -INFO - User clicked on Review button
+2023-01-02 23:53:24,683 - logger_file -INFO - user wrote review on product
+2023-01-02 23:53:24,776 - logger_file -INFO - User clicked Add your Review button
+2023-01-02 23:53:25,425 - logger_file -INFO - a review message displayed
